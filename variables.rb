@@ -6,3 +6,6 @@ local variable or _LocalVariable scope
 @@class variable scope
 CONSTANT
 =end
+
+$name = "Osman/n"
+print defined? $name
