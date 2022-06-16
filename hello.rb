@@ -31,3 +31,8 @@ print a.to_f
 print b.to_s
 
 print defined? a
+
+puts Math.constants
+
+puts Math::PI
+puts Math::E
